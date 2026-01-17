@@ -10,25 +10,24 @@ The idea is to use the pad for better workflow in any creative software. I desig
 - OLED Display
 - With different Layers/Modes for different software, you can use the pad for many purposes.
 
-<img src=assets/picture1.png alt="Hackpad Picture 1" width="300"/>
-<img src=assets/picture2.png alt="Hackpad Picture 2" width="300"/>
+<img src=assets/picture1.png alt="Hackpad Picture 1" width="300"/> <img src=assets/picture2.png alt="Hackpad Picture 2" width="300"/>
 
 ## PCB
 I made the PCB in KiCAD.
 
 Schematic:
 
-<img src=assets/schematic.png alt="Hackpad" width="500"/>
+<img src=assets/schematic.png alt="Hackpad" width="600"/>
 
 PCB: 
 
-<img src=assets/pcb.png alt="Hackpad" width="500"/>
+<img src=assets/pcb.png alt="Hackpad" width="600"/>
 
 ## CAD
 I made the CAD in Autodesk Fusion which I already used a couple of times before. The hackpad's case is of three parts which fit together using M3 screws and heatset inserts.
 We have a bottom, middle and top part. 
 
-<img src=assets/cad.png alt="Hackpad" width="500"/>
+<img src=assets/cad.png alt="Hackpad" width="600"/>
 
 ## BOM
 - 8x Cherry MX Switches
